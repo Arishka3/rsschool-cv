@@ -1,1 +1,2 @@
 # rsschool-cv
+#Arina Sidor
