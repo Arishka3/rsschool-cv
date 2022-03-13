@@ -1,3 +1,3 @@
 # rsschool-cv
-#Arina Sidor
-##Contacts
+# Arina Sidor
+## Contacts
