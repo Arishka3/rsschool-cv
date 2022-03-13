@@ -1,7 +1,5 @@
 # K-GorodSchool
----
 # Arina Sidor
-***
 ## Contacts
  * **Location:** Minsk, Belarus
  * **Phone:** +375 (29) 362-95-53
